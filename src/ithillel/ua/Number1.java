@@ -6,9 +6,9 @@ public class Number1 {
 
         for (int i = 0; i < 100; i++) {
             if (i == 13 || i == 66) {
-                System.out.println("Continue...");
                 continue;
             }
+            System.out.println("i")
         }
     }
 }
