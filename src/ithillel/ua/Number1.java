@@ -8,7 +8,7 @@ public class Number1 {
             if (i == 13 || i == 66) {
                 continue;
             }
-            System.out.println("i")
+            System.out.println("i");
         }
     }
 }
